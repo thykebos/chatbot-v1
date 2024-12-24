@@ -1,6 +1,9 @@
 # chatbot-v1
 basic c# project example
 
+zipte \chatbotv1x\chatbotv1\bin\Debug\chatbotv1.exe 
+KONUMUNDAN DİREKT OLARAK PROJE AÇILABİLİR
+
 
 ![image](https://github.com/user-attachments/assets/fc04e6dd-c41d-4951-8beb-54602df7556d)
 
