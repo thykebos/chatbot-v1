@@ -1,7 +1,10 @@
 # chatbot-v1
 basic c# project example
 
-zipte \chatbotv1x\chatbotv1\bin\Debug\chatbotv1.exe 
+zipte 
+
+\chatbotv1x\chatbotv1\bin\Debug\chatbotv1.exe
+
 KONUMUNDAN DİREKT OLARAK PROJE AÇILABİLİR
 
 
